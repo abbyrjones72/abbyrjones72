@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abbyrjones72
 - 👀 I’m interested in computer programming, operating systems, systems programming, audio programming, game programming, any programming.
-- 🌱 I’m currently learning audio programming.
-- 💞️ I’m looking to collaborate on operating system design.
+- 🌱 I’m currently learning anything and everything.
+- 💞️ I’m looking to collaborate on building an ERP system.
 - 📫 How to reach me abbydev72@gmail.com
 
 <!---
